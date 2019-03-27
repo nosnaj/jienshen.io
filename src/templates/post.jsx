@@ -2,10 +2,9 @@ import React from "react";
 import Helmet from "react-helmet";
 import { graphql } from "gatsby";
 import Layout from "../layout";
+import BigLogo from "../components/BigLogo/BigLogo";
 import UserInfo from "../components/UserInfo/UserInfo";
-import Disqus from "../components/Disqus/Disqus";
 import PostTags from "../components/PostTags/PostTags";
-import SocialLinks from "../components/SocialLinks/SocialLinks";
 import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
 import "./b16-tomorrow-dark.css";
@@ -24,20 +23,24 @@ export default class PostTemplate extends React.Component {
     }
     return (
       <Layout>
-        <div>
+        <BigLogo config={config} />
+        <div style={{ width: "100%", height: "400px", background: `url(${post.cover})`, backgroundPosition: 'center', backgroundSize: 'cover' }} />
+        <div className="overall-width">
           <Helmet>
             <title>{`${post.title} | ${config.siteTitle}`}</title>
           </Helmet>
           <SEO postPath={slug} postNode={postNode} postSEO />
           <div>
-            <h1>{post.title}</h1>
+            <h1 className="title">{post.title}</h1>
             <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
+            <a href={`https://mobile.twitter.com/search?q=${encodeURIComponent(`https://jienshen.io${slug}`)}`} target="_blank" rel="noopener noreferrer">
+                  Discuss on Twitter
+                </a>
             <div className="post-meta">
               <PostTags tags={post.tags} />
-              <SocialLinks postPath={slug} postNode={postNode} />
             </div>
+            <hr />
             <UserInfo config={config} />
-            <Disqus postNode={postNode} />
           </div>
         </div>
       </Layout>

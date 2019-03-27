@@ -1,5 +1,10 @@
 import React from "react";
 import { Link } from "gatsby";
+import moment from "moment";
+
+import BigLogo from "../../components/BigLogo/BigLogo";
+import UserInfo from "../UserInfo/UserInfo";
+import config from "../../../data/SiteConfig";
 
 class PostListing extends React.Component {
   getPostList() {
@@ -17,17 +22,27 @@ class PostListing extends React.Component {
     });
     return postList;
   }
+
   render() {
     const postList = this.getPostList();
     return (
-      <div>
-        {/* Your post list here. */
-        postList.map(post => (
-          <Link to={post.path} key={post.title}>
-            <h1>{post.title}</h1>
-          </Link>
-        ))}
-      </div>
+      <>
+        <BigLogo config={config} size="large" />
+        <div className="overall-width">
+          <UserInfo config={config} />
+          {postList.map(post => (
+            <div>
+              <Link to={post.path} key={post.title}>
+                <h1>{post.title}</h1>
+              </Link>
+              <p>{post.excerpt}</p>
+              <p>
+                {moment(post.date).format("dddd, MMMM Do YYYY")} - 🕒 {post.timeToRead} minute read
+              </p>
+            </div>
+          ))}
+        </div>
+      </>
     );
   }
 }

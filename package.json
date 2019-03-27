@@ -17,6 +17,7 @@
     "gatsby-plugin-sharp": "2.0.17",
     "gatsby-plugin-sitemap": "2.0.4",
     "gatsby-plugin-twitter": "2.0.8",
+    "gatsby-plugin-typography": "^2.2.8",
     "gatsby-remark-autolink-headers": "2.0.12",
     "gatsby-remark-copy-linked-files": "2.0.8",
     "gatsby-remark-images": "3.0.1",
@@ -34,6 +35,9 @@
     "react-helmet": "^5.2.0",
     "react-share": "^2.4.0",
     "react-twitter-widgets": "^1.7.1",
+    "react-typography": "^0.16.19",
+    "typography": "^0.16.19",
+    "typography-theme-st-annes": "^0.16.19",
     "url-join": "^4.0.0"
   },
   "devDependencies": {
@@ -60,9 +64,9 @@
   "main": "n/a",
   "scripts": {
     "develop": "gatsby develop",
-    "dev": "npm run develop",
+    "dev": "rm -rf ./.cache && npm run develop",
     "serve": "gatsby serve",
-    "build": "gatsby build",
+    "build": "rm -rf ./.cache && gatsby build",
     "build:pp": "gatsby build --prefix-paths",
     "build:gh": "npm run clean && npm run build:pp && gh-pages -d public",
     "clean": "rm -rf public && rm -rf .cache",

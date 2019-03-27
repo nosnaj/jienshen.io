@@ -1,0 +1,13 @@
+.large {
+  width: 64px;
+  height: 100%;
+}
+
+.small {
+  width: 32px;
+  height: 100%;
+}
+
+.logo {
+  font-size: 200%;
+}
