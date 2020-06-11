@@ -17,11 +17,11 @@ Growing up, I was the fat, nerdy kid who did no sports. I sat in front of the co
 
 ![Windows 3.1](./win31.png)
 
-I remember I was around the age of 5 or 6 (?) when introduced to my first DOS/Win 3.1, then Win 95 machine by my parents. I double-clicked on every single icon and fiddled with all the checkboxes and options in the Control Panel... For fun. 
+I remember I was around the age of 5 or 6 (?) when introduced to my first DOS/Win 3.1, then Win 95 machine by my parents. I double-clicked on every single icon and fiddled with all the checkboxes and options in the Control Panel... For fun.
 
 Once I got bored of MS Paint, Solitaire and the like, I started to ask for more.
 
-I remember my mom brought me to a PC games warehouse sale thing around that time in my childhood. I picked up some awesome titles from that sale too. [Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D) and [9: The Last Resort](https://en.wikipedia.org/wiki/9:_The_Last_Resort) were the most memorable, as they were my first impressions of PC games.
+I remember my mom bringing me to a PC games warehouse sale around that time in my childhood. I picked up some awesome titles from that sale too. [Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D) and [9: The Last Resort](https://en.wikipedia.org/wiki/9:_The_Last_Resort) were the most memorable, as they were my first impressions of PC games.
 
 _Duke Nukem 3D_ was my first exposure to FPS (First Person Shooter) games. It provided me an almost too soon a peek into the Hollywood-esque Macho Man Action Hero trope, skimpy blonde girls, gory aliens and all. My mom, like all other Malaysian aunties, ignored the age rating on these boxes. I was super impressed that the mirrors actually reflected my character in the game. Mind blowing PC gaming tech for 1996. I'm actually super proud and impressed of my mom for introducing me to this title as my first PC game.
 
