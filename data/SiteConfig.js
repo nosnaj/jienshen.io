@@ -19,7 +19,7 @@ const config = {
   userLocation: "Klang Valley, Malaysia", // User location to display in the author segment.
   userAvatar: "https://secure.gravatar.com/avatar/05c4551cb901a0c87c20d9ccb6ee22bc.jpg", // User avatar to display in the author segment.
   userDescription:
-    "I write about personal stories, tech stuff, leadership and life in general. Expect pointless ramblings, random thoughts. Minimum 1 post per week. Quality not guaranteed.", // User description to display in the author segment.
+    "I write about personal stories, tech stuff, leadership and life in general. Expect pointless ramblings, random thoughts. Minimum 1 post per week. (Edit: LIAR) Quality not guaranteed.", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
