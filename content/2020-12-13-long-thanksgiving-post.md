@@ -103,7 +103,7 @@ I've been thinking about this for a while but I think the best way I can do it i
 **Ruben**
 
 * For pushing me to my limits. This was back in Form 1. I was just a fat kid minding my own business but you took the initiative to reach out and *train* me in basketball. I had zero knowledge. Thanks to him I can now play the game fairly ok. I guess back then he either saw something in me (unlikely) or just wanted someone to play with? We stayed at the same condo and I guess he noticed that I had above average height and could make a good teammate. I never made any sports team though.
-* Ruben stayed on in my life and played a bigger part later in Form 5 when he introduced me to my first part-time job ever at Friendster Cafe. The first glimpse into the service/F&B industry! It was a great experience.\
+* Ruben stayed on in my life and played a bigger part later in Form 5 when he introduced me to my first part-time job ever at Friendster Cafe. The first glimpse into the service/F&B industry! It was a great experience.
 * Thank you for being an inspiration. You were always and are still such a go-getter.
 
 **Hwai Yee**
