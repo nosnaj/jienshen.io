@@ -10,10 +10,26 @@ body {
   margin: 0;
 }
 
+body, blockquote, h1 {
+  background-color: rgb(0, 0, 0);
+  color: rgb(231, 233, 234);
+}
+
 a,
 a > h1 {
-  color: #000080;
+  color: #ababff;
 }
+
+a:hover,
+a:hover > h1 {
+  color: #8a8aff;
+}
+
+a:visited,
+a:visited > h1 {
+  color: #506ab3;
+}
+
 
 button {
   border: none;

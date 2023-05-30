@@ -1,3 +1,4 @@
+/* eslint-disable react/destructuring-assignment */
 import React from "react";
 import Helmet from "react-helmet";
 import { graphql } from "gatsby";
@@ -24,7 +25,12 @@ export default class PostTemplate extends React.Component {
     return (
       <Layout>
         <BigLogo config={config} />
-        <div style={{ width: "100%", height: "400px", background: `url(${post.cover})`, backgroundPosition: 'center', backgroundSize: 'cover' }} />
+        <div
+          className="post-cover"
+          style={{
+            background: `url(${post.cover}) no-repeat`,
+          }}
+        />
         <div className="overall-width">
           <Helmet>
             <title>{`${post.title} | ${config.siteTitle}`}</title>
@@ -33,9 +39,15 @@ export default class PostTemplate extends React.Component {
           <div>
             <h1 className="title">{post.title}</h1>
             <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
-            <a href={`https://mobile.twitter.com/search?q=${encodeURIComponent(`https://jienshen.io${slug}`)}`} target="_blank" rel="noopener noreferrer">
-                  Discuss on Twitter
-                </a>
+            <a
+              href={`https://mobile.twitter.com/search?q=${encodeURIComponent(
+                `https://jienshen.io${slug}`
+              )}`}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Discuss on Twitter
+            </a>
             <div className="post-meta">
               <PostTags tags={post.tags} />
             </div>
