@@ -1,0 +1,42 @@
+---
+title: sugardaddy
+date: 2024-08-19T02:39:32.356Z
+cover: data:image/jpeg;base64,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
+category: personal
+tags:
+  - life
+  - snapshot
+---
+typing this one out of a cafe that just opened nearby
+
+had fun shooting hoops alone at the nearby community park moments ago
+
+even had to dry off the sweat in the car before i made my next move
+
+i won't speak of the title because that's a secret, yeah it's literally a secret
+
+read carefully if you really cared so much, eh not that important. thought i'd do today's post a bit different
+
+well anyway it's another day off from work today, funny that i'll be having a whole month of day offs soon.
+
+i can really get used to this
+
+financially though, it doesn't make much sense, just super duper grateful for our situation that allows it. major props to my wife who's supportive of my decision.
+
+i know, it's temporary. one month is a lot, it's more than enough
+
+plus i can always do it again, if i really wanted to.
+
+an iced americano and a mushroom soup, idk why i ordered the soup tbh, felt like i had to try some food outta this place, not just drinks.
+
+so i just took a sip outta the iced americano and i gotta say, their coffee rocks
+
+same can be said for the vibes. well not really i guess. it lacks the soul the quaint little ones have. this one feels a little bit too established for my tastes.
+
+well i guess i'm gonna go get a massage later. neck/shoulder area a bit stiff, can use a bit of loosening up.
+
+oughtta work on my lil life-sim game while i'm here. make some progress.
+
+really glad i spent some more time on it last night, it's really shaping up a bit. more work needed on the content!
+
+definitely, maybe.
