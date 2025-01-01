@@ -15,7 +15,7 @@ Earlier today, we had brunch at the equestrian park and went on a sightseeing cr
 
 I was just reading my 2023 review and felt glad I had included general outlines for this year. Reflecting on those points has inspired me to write this year’s review.
 
-### 2024 Review  
+## 2024 Review
 
 **More celebrations of life and love.**  
 - We celebrated my younger sister Mabel’s marriage in Korea.  
@@ -53,41 +53,39 @@ I was just reading my 2023 review and felt glad I had included general outlines 
 **Write here more!**  
 - I managed only two posts this year and lost one draft. I’ll try to do more.  
 
----
-
-### Wishlist for 2025  
+## Wishlist for 2025  
 
 1. **Celebrate life and love.**  
- - Make more intentional efforts to celebrate milestones and moments, big or small.  
+    - Make more intentional efforts to celebrate milestones and moments, big or small.  
 
 2. **More new experiences for Linus and the family.**  
- - Plan a family trip to Japan in April or May, including cramming Japanese before the trip.  
- - Try out new local adventures or experiences together.  
+    - Plan a family trip to Japan in April or May, including cramming Japanese before the trip.  
+    - Try out new local adventures or experiences together.  
 
 3. **Achieve more organization and order at home.**  
- - Invest in dining chairs!  
- - Continue tidying and enhancing our living space.  
+    - Invest in dining chairs!  
+    - Continue tidying and enhancing our living space.  
 
 4. **Prioritise energy and health.**  
- - Establish a consistent exercise routine, do meal prep, and focus on weight loss.  
- - Incorporate active play and outdoor activities with Linus.  
+    - Establish a consistent exercise routine, do meal prep, and focus on weight loss.  
+    - Incorporate active play and outdoor activities with Linus.  
 
 5. **Prepare for Linus’ education.**  
- - Sign him up for primary school and support his transition.  
+    - Sign him up for primary school and support his transition.  
 
 6. **Build more things.**  
- - Finish the life-sim game I started and explore new projects for fun.  
+    - Finish the life-sim game I started and explore new projects for fun.  
 
 7. **Read more books.**  
- - Continue the momentum of reading and fully engage with PewDiePie’s book club.  
+    - Continue the momentum of reading and fully engage with PewDiePie’s book club.  
 
 8. **Write here more.**  
- - Post regularly and capture meaningful experiences or reflections.  
+    - Post regularly and capture meaningful experiences or reflections.  
 
 9. **Purchase our first landed property.**  
-  - Find the right home that fits our needs and budget.  
+    - Find the right home that fits our needs and budget.  
 
 10. **Professional clarity.**
-  - Gain a clear sense of direction in my career and find daily satisfaction in the work I do to earn a living.
+    - Gain a clear sense of direction in my career and find daily satisfaction in the work I do to earn a living.
 
 Here’s to a fulfilling 2025!
