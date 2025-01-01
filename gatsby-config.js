@@ -1,7 +1,7 @@
 const urljoin = require("url-join");
 const config = require("./data/SiteConfig");
 
-module.exports = {
+const gatsbyConfig = {
   pathPrefix: config.pathPrefix === "" ? "/" : config.pathPrefix,
   siteMetadata: {
     siteUrl: urljoin(config.siteUrl, config.pathPrefix),
@@ -175,3 +175,5 @@ module.exports = {
     }
   ]
 };
+
+module.exports = gatsbyConfig;
