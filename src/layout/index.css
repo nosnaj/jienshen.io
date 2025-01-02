@@ -10,7 +10,7 @@ body {
   margin: 0;
 }
 
-body, blockquote, h1 {
+body, blockquote, h1, h2, h3 {
   background-color: rgb(0, 0, 0);
   color: rgb(231, 233, 234);
 }
