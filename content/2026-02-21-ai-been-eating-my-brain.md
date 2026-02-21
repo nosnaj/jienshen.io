@@ -20,7 +20,11 @@ ai email drafts
 
 claude code
 
-cursor (already outdated)
+opencode
+
+t3chat
+
+\---
 
 also this domain will not be renewed. .io too expensive to upkeep
 
